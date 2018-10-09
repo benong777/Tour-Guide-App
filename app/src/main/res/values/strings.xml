@@ -1,0 +1,33 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">San Diego</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_beaches">Beaches</string>
+
+    <string name="beach_1">Ka\'anapali Beach</string>
+    <string name="beach_1_description">Once a retreat for Hawaiian royalty and today is often called one of the best beaches on Maui.</string>
+    <string name="beach_2">Keawakapu Beach</string>
+    <string name="beach_2_description">This secret south Maui paradise is an ideal getaway for white sand beach and an underwater reef.</string>
+    <string name="beach_3">Kapalua Beach</string>
+    <string name="beach_3_description">The calm waters offer great swimming, and natural tide pools give children the opportunity to see sea creatures up close.</string>
+    <string name="beach_4">Kahekili Beach</string>
+    <string name="beach_4_description">This extension of Kaʻanapali Beach is an ideal spot for snorkeling and scuba diving.</string>
+    <string name="beach_5">Napili Bay</string>
+    <string name="beach_5_description">Napili Bay is well known for its golden sand, great snorkeling and picture-perfect sunsets.</string>
+    <string name="beach_6">Baby Beach</string>
+    <string name="beach_6_description">Beautiful, calm waters make for great snorkeling and swimming for the kids.</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_entertainment">Activities</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_restaurants">Dining</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_shopping">Shopping</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

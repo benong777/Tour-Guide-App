@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#4A312A</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#2F1D1A</color>
+
+    <!-- Background color for app -->
+    <color name="tan_background">#FFF7DA</color>
+
+    <!-- Background color for each category -->
+    <color name="category_beaches">#4DD0E1</color>
+    <color name="category_restaurants">#379237</color>
+    <color name="category_entertainment">#16AFCA</color>
+    <color name="category_shopping">#E53935</color>
+
+    <color name="tab_bg_color">#3949AB</color>
+    <color name="tab_text_color">#9E9E9E</color>
+    <color name="tab_selected_text_color">#FFFFFF</color>
+    <color name="title_color">#FFFFFF</color>
+    <color name="content_text_color">#FFFFFF</color>
+
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+</resources>
