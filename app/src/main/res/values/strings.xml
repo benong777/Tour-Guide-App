@@ -29,9 +29,9 @@
     <string name="activities_4">Maritime Museum</string>
     <string name="activities_4_description">Experience a world-class collection of historic sailing ships, steam-powered boats, and submarines.</string>
     <string name="activities_5">Cabrillo National Park</string>
-    <string name="activities_5_description">San Diego's 'only' National Park offers tremendous views and excellent opportunities to explore it's history.</string>
+    <string name="activities_5_description">San Diego\'s \'only\' National Park offers tremendous views and excellent opportunities to explore it\'s history.</string>
     <string name="activities_6">Belmont Park Amusement</string>
-    <string name="activities_6_description">Located on Mission Beach, Belmont Park is San Diego's only beachfront amusement and entertainment center!</string>
+    <string name="activities_6_description">Located on Mission Beach, Belmont Park is San Diego\'s only beachfront amusement and entertainment center!</string>
 
     <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
     <string name="category_restaurants">Dining</string>
@@ -55,9 +55,9 @@
     <string name="shopping_2">Del Mar Highlands Town Center</string>
     <string name="shopping_2_description">Shop, dine, relax and explore Del Mar Highlands Town Center located in the heart of Carmel Valley.</string>
     <string name="shopping_3">Westfield UTC</string>
-    <string name="shopping_3_description">Westfield UTC is San Diego's iconic, open-air shopping, dining and entertainment destination.</string>
+    <string name="shopping_3_description">Westfield UTC is San Diego\'s iconic, open-air shopping, dining and entertainment destination.</string>
     <string name="shopping_4">Las Americas Premium Outlets</string>
-    <string name="shopping_4_description">Stroll through the center's beautiful courtyards with fountains, statues and elegant architecture.</string>
+    <string name="shopping_4_description">Stroll through the center\'s beautiful courtyards with fountains, statues and elegant architecture.</string>
     <string name="shopping_5">Bazaar Del Mundo</string>
     <string name="shopping_5_description">The Bazaar del Mundo Shops is a great spot for handcrafted gifts and treasures that are unique in all the world.</string>
     <string name="shopping_6">Shops at the Del</string>
