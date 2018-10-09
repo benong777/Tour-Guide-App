@@ -29,18 +29,18 @@ public class EntertainmentFragment extends Fragment {
         View rootView = inflater.inflate(R.layout.content_list, container, false);
 
         // Strings variables
-        String activities_1 = "SeaWorld";
-        String activities_1_description = "Spread across the beautiful Mission Bay Park, SeaWorld is known for its amazing animals, interactive attractions and rides.";
-        String activities_2 = "San Diego Zoo";
-        String activities_2_description = "San Diego zoo is a tropical oasis with amazing habitats for gorillas, Komodo dragons, tigers, polar bears, and pandas.";
-        String activities_3 = "LegoLand";
-        String activities_3_description = "Families can enjoy rides, shows and attractions! Marvel at cities built entirely out of millions of LEGO® bricks.";
-        String activities_4 = "Maritime Museum";
-        String activities_4_description = "Experience a world-class collection of historic sailing ships, steam-powered boats, and submarines.";
-        String activities_5 = "Cabrillo National Park";
-        String activities_5_description = "San Diego's 'only' National Park offers tremendous views and excellent opportunities to explore it's history.";
-        String activities_6 = "Belmont Park Amusement";
-        String activities_6_description = "Located on Mission Beach, Belmont Park is San Diego's only beachfront amusement and entertainment center!";
+        String activities_1 = getString(R.string.activities_1);
+        String activities_1_description = getString(R.string.activities_1_description);
+        String activities_2 = getString(R.string.activities_2);
+        String activities_2_description = getString(R.string.activities_2_description);
+        String activities_3 = getString(R.string.activities_3);
+        String activities_3_description = getString(R.string.activities_3_description);
+        String activities_4 = getString(R.string.activities_4);
+        String activities_4_description = getString(R.string.activities_4_description);
+        String activities_5 = getString(R.string.activities_5);
+        String activities_5_description = getString(R.string.activities_5_description);
+        String activities_6 = getString(R.string.activities_6);
+        String activities_6_description = getString(R.string.activities_6_description);
 
         // Create a list of contents
         final ArrayList<Content> contents = new ArrayList<Content>();

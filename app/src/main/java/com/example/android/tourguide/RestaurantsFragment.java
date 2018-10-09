@@ -28,18 +28,18 @@ public class RestaurantsFragment extends Fragment {
         View rootView = inflater.inflate(R.layout.content_list, container, false);
 
         // Strings variables
-        String restaurant_1 = "Coasterra";
-        String restaurant_1_description = "Boasting stunning views of the San Diego Harbor, Coasterra is the ideal destination for intimate sunset dining.";
-        String restaurant_2 = "Peohe's";
-        String restaurant_2_description = "Peohe’s captures the essence of Southern California dining with its stunning bay front views and a chic tropical vibe.";
-        String restaurant_3 = "Blue Point Coastal Cuisine";
-        String restaurant_3_description = "Blue Point was the first seafood and oyster bar to open in the Gaslamp and it remains one of the very best.";
-        String restaurant_4 = "George's At The Cove";
-        String restaurant_4_description = "This three-floor oceanview stunner offers choose-your-own-adventure dining, spanning a casual rooftop terrace.";
-        String restaurant_5 = "Starlite";
-        String restaurant_5_description = "Starlite helped kickstart the concept of a craft cocktail bar that serves great food and is still one of the best.";
-        String restaurant_6 = "Civico 1845";
-        String restaurant_6_description = "This restaurant offers menu of Southern Italian seafood dishes made with modern innovations on Italian classics.";
+        String restaurant_1 = getString(R.string.restaurant_1);
+        String restaurant_1_description = getString(R.string.restaurant_1_description);
+        String restaurant_2 = getString(R.string.restaurant_2);
+        String restaurant_2_description = getString(R.string.restaurant_2_description);
+        String restaurant_3 = getString(R.string.restaurant_3);
+        String restaurant_3_description = getString(R.string.restaurant_3_description);
+        String restaurant_4 = getString(R.string.restaurant_4);
+        String restaurant_4_description = getString(R.string.restaurant_4_description);
+        String restaurant_5 = getString(R.string.restaurant_5);
+        String restaurant_5_description = getString(R.string.restaurant_5_description);
+        String restaurant_6 = getString(R.string.restaurant_6);
+        String restaurant_6_description = getString(R.string.restaurant_6_description);
 
         // Create a list of contents
         final ArrayList<Content> contents = new ArrayList<Content>();

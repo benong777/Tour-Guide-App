@@ -30,18 +30,18 @@ public class ShoppingFragment extends Fragment {
         View rootView = inflater.inflate(R.layout.content_list, container, false);
 
         // Strings variables
-        String shopping_1 = "Lanefield";
-        String shopping_1_description = "Lane Field Park Markets is a beautiful open air food market serving craft coffee and food from local vendors";
-        String shopping_2 = "Del Mar Highlands Town Center";
-        String shopping_2_description = "Shop, dine, relax and explore Del Mar Highlands Town Center located in the heart of Carmel Valley.";
-        String shopping_3 = "Westfield UTC";
-        String shopping_3_description = "Westfield UTC is San Diego's iconic, open-air shopping, dining and entertainment destination.";
-        String shopping_4 = "Las Americas Premium Outlets";
-        String shopping_4_description = "Stroll through the center's beautiful courtyards with fountains, statues and elegant architecture.";
-        String shopping_5 = "Bazaar Del Mundo";
-        String shopping_5_description = "The Bazaar del Mundo Shops is a great spot for handcrafted gifts and treasures that are unique in all the world.";
-        String shopping_6 = "Shops at the Del";
-        String shopping_6_description = "Explore Shops at The Del, a colorful bazaar of designer labels, fine jewelry, home accents, bath and spa products.";
+        String shopping_1 = getString(R.string.shopping_1);
+        String shopping_1_description = getString(R.string.shopping_1_description);
+        String shopping_2 = getString(R.string.shopping_2);
+        String shopping_2_description = getString(R.string.shopping_2_description);
+        String shopping_3 = getString(R.string.shopping_3);
+        String shopping_3_description = getString(R.string.shopping_3_description);
+        String shopping_4 = getString(R.string.shopping_4);
+        String shopping_4_description = getString(R.string.shopping_4_description);
+        String shopping_5 = getString(R.string.shopping_5);
+        String shopping_5_description = getString(R.string.shopping_5_description);
+        String shopping_6 = getString(R.string.shopping_6);
+        String shopping_6_description = getString(R.string.shopping_6_description);
 
         // Create a list of contents
         final ArrayList<Content> contents = new ArrayList<Content>();
